@@ -1,1 +1,2 @@
-# c3-0project
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
